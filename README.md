@@ -1,5 +1,5 @@
 # Bitcoin-CASH-bchr2.py
-Random Scan for Bitcoin CASH BCH Addresses and Balance Using BIT Library and API Made in Python Automatically generate private key and address to check Balance. Requires internet Connection.
+Random Scan for Bitcoin CASH BCH Addresses and Balance Using BITCASH Library and API Made in Python Automatically generate private key and address to check Balance. Requires internet Connection.
 
 ![image](https://user-images.githubusercontent.com/88630056/128643088-2ffbcd03-06c1-406d-973f-4c509345001d.png)
 
